@@ -3,7 +3,7 @@
 Welcome to the Sequence Prediction Repository! This repository is dedicated to exploring various methods and techniques for sequence prediction. 
 
 ## Methods
-- Long Short-Term Memory (LSTM) networks
+- Long Short-Term Memory (LSTM) networks (LSTM-word-prediction.ipynb, time-series-forecasting.ipynb)
 - Hidden Markov Models (HMMs)
 - And more...
 
