@@ -16,5 +16,5 @@ LSTM-Word-Prediction.ipynb: https://www.kaggle.com/datasets/dorianlazar/medium-a
 Time-Series-Forecasting.ipynb: https://github.com/jbrownlee/Datasets/blob/master/airline-passengers.csv 
 ## Future Updates
 
-I am just getting started with this repository, and I plan to continue adding more methods, datasets, and resources.
+I am actively working on this repository, and I plan to continue adding more methods, datasets, and resources.
 
