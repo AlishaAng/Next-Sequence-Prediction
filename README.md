@@ -5,7 +5,6 @@ Welcome to the Sequence Prediction Repository! This repository is dedicated to e
 ## Methods
 - Long Short-Term Memory (LSTM) networks
 - Markov Chain
-- Hidden Markov Models (HMMs)
 - Autoregressive Integrated Moving Average (ARIMA)
 - And more...
 
